@@ -3,7 +3,7 @@
 
 Tiger CRM: Open Source Developer Management system is designed to streamline the identification, organization, sponsorship, and management of key open-source developers on behalf of Tiger CRM's clients. This ensures clients maximize their impact, engagement, and return on investment from strategic open-source contributions and community support.
 
-## OSDM Features
+## Features
 
 - A single dedicated point of contact who will manage the entire lifecycle of a sponsored open-source developer relationship:
 
